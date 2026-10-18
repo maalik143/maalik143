@@ -1,16 +1,24 @@
-## Hi there 👋
-
-<!--
-**maalik143/maalik143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi 👋, I'm Zakaria Dahir Awale
+Full-Stack Developer | Systems & Logistics Software Engineer | CS Graduate
+   
+--- ### 🚀 About Me - 🎓 **B.Sc. in Computer Science** from Somali International University (SIU). - 💻 Passionate about building scalable **web applications**, **IoT hardware-software systems**, and **logistics & operations platforms**. - 🛠️ Hands-on experience developing enterprise systems including **KingTruckDispatch (Logistics & Freight)**, **Live Aviation Radar**, **SIUBANK (.NET/SQL)**, and **PC Sentinel (Security/Audit)**. - 🌍 Open to **Remote Software Engineering, Technical Support, and Operations / Billing** opportunities worldwide. --- ### 🛠️ Tech Stack & Skills 
+ 
+Python 	 
+JavaScript 	 
+Node.js 	 
+React 	 
+C# 	 
+PHP 	 
+MySQL 
+ 
+SQL Server 	 
+Linux 	 
+Git 	 
+GitHub 	 
+Arduino 	 
+Flutter 	 
+VS Code 
+--- ### 📊 GitHub Activity & Stats 
+ 
+ 
+--- ### 📬 Connect With Me - 📧 Email: **cadecade232@gmail.com** - 📱 Phone / WhatsApp: **+252 61 646 5014** - 📍 Location: **Mogadishu, Somalia** (Available for Worldwide Remote Work) 
